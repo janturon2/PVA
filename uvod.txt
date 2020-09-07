@@ -1,1 +1,2 @@
 PVA je o tvorbě programů.
+Budeme se učit programovat.
